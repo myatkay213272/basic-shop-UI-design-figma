@@ -1,46 +1,40 @@
 # basic-shop-UI-design-figma
-# 🛒 E-commerce UI Design – Figma First Project
+# 🛍️ E-commerce Product Page UI (Figma Design)
 
-This is my first design project created in Figma. It is a simple e-commerce layout focused on core UI components such as **navigation**, **product cards**, and **text content cards**.
+This is a Figma-based UI design for an e-commerce product page. The design includes a clean layout with product details, customer reviews, and similar product suggestions.
 
-## 📁 Project Overview
+## 📐 Features Included
 
-- **Tool**: Figma
-- **Goal**: Practice basic UI/UX elements for an online shopping interface
+- **Product Card**
+  - Product image
+  - Title & description
+  - Add to Cart / Buy Now buttons
 
-## 🧩 Components Included
+- **Review Section**
+  - User profile icons
+  - Star ratings
+  - Review text
+  - "Write a Review" button
 
-- ✅ Top Navigation Bar (with logo, links, and cart icon)
-- ✅ Product Card (image, name, price, and button)
-- ✅ Text Card (for promotions, info, or sections)
+- **Similar Products**
+  - Grid layout of recommended items
+  - Each card shows image, price, and quick view option
 
-  [View Image](image.png)
-  [View Image](product3.png)
-  [View Image](product4.png)
+  [View Image](./image.png)
+  [View Image](./product3.png)
+  [View Image](./product4.png)
 
-## 🔗 Live Figma File
+## 🖼️ Preview
 
-[Figma Project – E-commerce UI](https://www.figma.com/design/0MPzivObRQhXLQ899BBRYI/Figma-First-Project?node-id=62-2&t=wximXAnV3oOhUXAP-1)
+> *(Add a screenshot or link to your Figma preview here)*
 
-## 🎯 Learning Goals
+[Figma File Link](https://www.figma.com/file/your-figma-link)
 
-- Understand layout structure
-- Build reusable components
-- Improve visual hierarchy and spacing
-- Learn how to organize layers and frames
+## 🛠️ Tools Used
 
-## 🛠 Tools Used
-
-- Figma (Design & Layout)
+- Figma (UI/UX Design)
 - Google Fonts
-- Icons (e.g. Material or Feather Icons)
+- Material Icons (optional)
 
-## 📌 To-Do (Next Steps)
+## 📁 File Structure
 
-- Add more pages (e.g., product detail, cart, checkout)
-- Make it responsive (for mobile and tablet)
-- Create a working prototype (clickable navigation)
-
-## 🙌 Thanks!
-
-This is a beginner-level project to learn and practice Figma UI design. Feedback is welcome!
