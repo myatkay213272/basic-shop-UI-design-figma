@@ -14,7 +14,7 @@ This is a Figma-based UI design for an e-commerce product page. The design inclu
   - User profile icons
   - Star ratings
   - Review text
-  - "Write a Review" button
+
 
 - **Similar Products**
   - Grid layout of recommended items
@@ -28,7 +28,7 @@ This is a Figma-based UI design for an e-commerce product page. The design inclu
 
 > *(Add a screenshot or link to your Figma preview here)*
 
-[Figma File Link](https://www.figma.com/file/your-figma-link)
+🔗 **Figma File**: [View on Figma](https://www.figma.com/design/0MPzivObRQhXLQ899BBRYI/Figma-First-Project?node-id=62-2&t=t4A1u0ECmAVhvOiQ-1)
 
 ## 🛠️ Tools Used
 
