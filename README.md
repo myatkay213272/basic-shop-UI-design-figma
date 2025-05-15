@@ -15,10 +15,8 @@ This is my first design project created in Figma. It is a simple e-commerce layo
 - ✅ Text Card (for promotions, info, or sections)
 
   [View Image](image.png)
-  [View Image](nav1.png)
-  [View Image](nav2.png)
-  [View Image](product1.png)
-  [View Image](product2.png)
+  [View Image](product3.png)
+  [View Image](product4.png)
 
 ## 🔗 Live Figma File
 
